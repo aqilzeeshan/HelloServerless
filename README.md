@@ -20,6 +20,7 @@ Plugin: 4.4.2
 SDK: 2.3.2
 Components: 3.4.7
 
+
 sls invoke -f hello
 
 {
